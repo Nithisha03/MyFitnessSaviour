@@ -1,2 +1,2 @@
-# MyFitnessSaviour
+# Dietplanapp
 AAD Assignment
